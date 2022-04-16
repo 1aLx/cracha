@@ -1,6 +1,6 @@
 const SocialMediaLinks = {
     github: "1alx",
-    instagram: "alexandre.swf",
+    instagram: "1xandele",
     linkedIn: "in/alexandreabreu1995/",
     facebook: "profile.php?id=100008623936016",
 }
